@@ -1,4 +1,4 @@
-name: hashids
+name: qr
 version: 0.0.1
 compatibility: 2.0.0
-tags: ["hash", "id", "hashids"]
+tags: ["qr", "code", "barcode", "generation"]
